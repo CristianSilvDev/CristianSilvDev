@@ -3,9 +3,8 @@ Olá, me chamo Cristian de Mattos, tenho 22 anos e atualmente curso graduação 
  ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente busco uma oportunidade de trabalho na área;
-- 🌱 Estou aprendendo a linguagem Java, Frameworks e SpringBoot;
-- 👯 Estou procurando colaborar contribuindo para a comunidade com a linguagem Java;
-- 🤔 Estou procurando ajuda com a linguagem Java;
+- 🌱 Estou aprendendo a linguagem Java, Sql, Jdbc, Frameworks e SpringBoot;
+- 🤔 Estou procurando ajudar com a linguagem Java;
 - ⚡ Curiosidade: Sou um cara proativo que está sempre procurando uma maneira para facilitar o próximo, por exemplo, participei diretamente na criação do discord para minha turma ter um ambiente confortável de estudo e interação, realizando o networking.
 
 <div align="left">
