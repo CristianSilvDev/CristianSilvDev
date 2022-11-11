@@ -9,7 +9,7 @@ Olá, me chamo Cristian de Mattos, tenho 22 anos e atualmente curso graduação 
 
 <div align="left">
   <a href="https://github.com/CristianSilvDev">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=CristianSilvaProf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=CristianSilvDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianSilvDev&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
