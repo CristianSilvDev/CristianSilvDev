@@ -1,4 +1,4 @@
-Olá, me chamo Cristian de Mattos, tenho 22 anos e atualmente curso graduação de Análise e Desenvolvimento de Sistemas e também direicono meus estudos a cursos, bootcamps e projetos por fora, tais como: Udemy e Dio. 
+Olá, me chamo Cristian de Mattos, tenho 22 anos e atualmente curso graduação de Análise e Desenvolvimento de Sistemas e também direciono meus estudos a cursos, bootcamps e projetos por fora, tais como: Udemy e Dio. 
  
  ## Bem vindo ao meu perfil GitHub 👋
 
@@ -8,9 +8,9 @@ Olá, me chamo Cristian de Mattos, tenho 22 anos e atualmente curso graduação 
 - ⚡ Curiosidade: Sou um cara proativo que está sempre procurando uma maneira para facilitar o próximo, por exemplo, participei diretamente na criação do discord para minha turma ter um ambiente confortável de estudo e interação, realizando o networking.
 
 <div align="left">
-  <a href="https://github.com/CristianSilvaProf">
+  <a href="https://github.com/CristianSilvDev">
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=CristianSilvaProf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianSilvaProf&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianSilvDev&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
