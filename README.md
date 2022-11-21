@@ -1,9 +1,10 @@
-Olá, me chamo Cristian de Mattos, tenho 22 anos e atualmente curso graduação de Análise e Desenvolvimento de Sistemas e também direciono meus estudos a cursos, bootcamps e projetos por fora, tais como: Udemy e Dio. 
+Olá, me chamo Cristian de Mattos, tenho 22 anos e atualmente curso graduação de Análise e Desenvolvimento de Sistemas e também direciono meus estudos a cursos, bootcamps e projetos por fora, tais como: Udemy, DevSuperior e Dio. 
  
  ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente busco uma oportunidade de trabalho na área;
-- 🌱 Estou aprendendo a linguagem Java, Sql, Jdbc, Frameworks e SpringBoot;
+- 🌱 Estou aprendendo a linguagem Java, Sql, Jdbc, Maven, Frameworks e SpringBoot;
+- ✍️ Pude praticar todo esse conhecimento em alguns projetos que estão disponíveis no meu portifólio. 
 - 🤔 Estou procurando ajudar com a linguagem Java;
 - ⚡ Curiosidade: Sou um cara proativo que está sempre procurando uma maneira para facilitar o próximo, por exemplo, participei diretamente na criação do discord para minha turma ter um ambiente confortável de estudo e interação, realizando o networking.
 
