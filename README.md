@@ -2,7 +2,7 @@ Olá, me chamo Cristian de Mattos, tenho 22 anos e atualmente curso graduação 
  
  ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente busco uma oportunidade de trabalho na área;
+- 🔭 Desenvolvedor Java Júnior da Noovi.
 - 🌱 Estou aprendendo Java, Sql, MongoDB, Jdbc, Maven, JPA/Hibernate, Tomcat, Spring Framework e SpringBoot;
 - ✍️ Pude praticar todo esse conhecimento em alguns projetos que estão disponíveis no meu portifólio. 
 - 🤔 Estou procurando ajudar com a linguagem Java;
