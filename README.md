@@ -1,4 +1,6 @@
 Olá, me chamo Cristian de Mattos, tenho 22 anos e atualmente curso graduação de Análise e Desenvolvimento de Sistemas e também direciono meus estudos a cursos, bootcamps e projetos por fora, tais como: Udemy, DevSuperior e Dio. 
+
+Contratado pela Noovi como desenvolvedor de Jr de URA com base em Java
  
  ## Bem vindo ao meu perfil GitHub 👋
 
